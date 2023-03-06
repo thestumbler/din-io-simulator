@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name ".novac")(type "KiCad")(uri "/files/projs/novac/eda/novac.pretty")(options "")(descr ""))
+  (lib (name ".stumbler")(type "KiCad")(uri "/files/projs/thestumbler/eda/stumbler.pretty")(options "")(descr ""))
+)
